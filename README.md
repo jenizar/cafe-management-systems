@@ -1,6 +1,12 @@
 # cafe-management-systems
 cafe management systems simple
 
+![alt text](https://github.com/jenizar/cafe-management-systems/blob/master/images/cafe.png)
+
+![alt text](https://github.com/jenizar/cafe-management-systems/blob/master/images/cafe_receipt.png)
+
+![alt text](https://github.com/jenizar/cafe-management-systems/blob/master/images/postgreSQL.png)
+
 features:
 - Python 3.6.4 
 - receipt preview
